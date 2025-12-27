@@ -35,16 +35,6 @@ This project uses crop/plant disease images (e.g., PlantVillage Dataset or simil
 - **Official PlantVillage**: https://plantvillage.psu.edu/
 - Other open-source agricultural datasets
 
-### Expected Dataset Structure
-
-```
-data/
-├── train/
-│   ├── Healthy/
-│   └── Diseased/
-└── test/
-    ├── Healthy/
-    └── Diseased/
 ```
 
 ## 🚀 Installation & Setup
@@ -52,7 +42,7 @@ data/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Crop-Disease-Prediction-CNN.git
+git clone https://github.com/samanthuday0339/CROP_DISEASES_PREDICTION-potato-leaf-
 cd Crop-Disease-Prediction-CNN
 ```
 
