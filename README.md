@@ -24,7 +24,7 @@ Crop-Disease-Prediction-CNN/
 ├── crop_prediction_alexneT.ipynb              # AlexNet Training Notebook
 ├── CROP_DISEASE_PREDICTION-CNN-LENET-.ipynb   # LeNet Training Notebook
 ├── README.md                                   # Project Documentation
-└── data/                                       # Dataset folder (if included)
+└── data/                                       # Dataset folder 
 ```
 
 ## 📊 Dataset
@@ -171,65 +171,6 @@ print(f"Disease Detected: {prediction}")
 - Check file permissions
 - Verify dataset format matches expected structure
 
-## 📚 References
 
-- [PlantVillage Dataset](https://plantvillage.psu.edu/)
-- [TensorFlow Documentation](https://www.tensorflow.org/)
-- [Keras API](https://keras.io/)
-- [CNN Architectures](https://arxiv.org/abs/1512.03385)
 
-## 📄 License
 
-This project is licensed under the MIT License - see LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-### Ways to Contribute
-
-- Improve model accuracy
-- Add new datasets
-- Enhance documentation
-- Create better visualizations
-- Add real-time prediction features
-- Optimize code performance
-
-## 💡 Future Enhancements
-
-- [ ] Mobile app integration (TensorFlow Lite)
-- [ ] Real-time webcam predictions
-- [ ] API deployment (Flask/FastAPI)
-- [ ] Advanced models (ResNet, VGG, DenseNet)
-- [ ] Multi-class disease classification
-- [ ] Confidence threshold management
-- [ ] Model interpretability (Grad-CAM visualizations)
-
-## 👨‍💻 Author
-
-**Your Name / Your Username**
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- Email: your.email@example.com
-
-## 📧 Contact & Support
-
-For questions, suggestions, or issues:
-- Open an issue on GitHub
-- Contact via email
-- Check existing discussions
-
-## ⭐ Acknowledgments
-
-- PlantVillage project for the dataset
-- TensorFlow and Keras communities
-- Contributors and users of this project
-
----
-
-**Made with ❤️ for agriculture and AI enthusiasts**
